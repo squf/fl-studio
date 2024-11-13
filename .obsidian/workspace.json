@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/mastering/mastering.md",
+                "file": "source/content/fl studio/mastering.md",
                 "mode": "source",
                 "source": false
               },
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/mastering/mastering.md",
+                "file": "source/content/fl studio/mastering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/content/mastering/mastering.md",
+                "file": "source/content/fl studio/mastering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/mastering/mastering.md"
+                "file": "source/content/fl studio/mastering.md"
               },
               "icon": "lucide-list",
               "title": "Outline of mastering"
@@ -177,11 +177,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eff64a9aaf584e60",
+  "active": "cdb6453664692100",
   "lastOpenFiles": [
     "source/content/mastering/Some note.md",
-    "source/content/mastering/mastering.md",
-    "source/content/mastering/index.md",
+    "source/content/fl studio/mastering.md",
+    "source/content/fl studio/index.md",
     "source/content/assets/Pasted image 20241112213532.png",
     "source/content/assets/Pasted image 20241112212851.png",
     "source/content/assets/Pasted image 20241112212734.png",
