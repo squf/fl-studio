@@ -56,13 +56,13 @@ there are always exceptions or different ways of doing things, but here are two 
 
 	* **high end** - right click the right knob in EQ 2 and choose type > high pass:
 	  
-	  ![[Pasted image 20241112204803.png]]
+	  ![[FL64_fZbldvo2XR.gif]]
 	
 	* this will let you hear what exactly you're cutting out, just be sure to switch it back to low pass when you're done. but this is really neat because its probably going to sound extremely tinny and not so good, this is all the junk noise you're EQ'ing out and getting rid of.
 	  
 	* **low end** - you can do this same trick on the left knob, and switch it over to low pass:
 	  
-	  ![[Pasted image 20241112205038.png]]![[Pasted image 20241112205106.png]]
+	  ![[FL64_hmT3S5SlOp.gif]]
 	
 	* as you drag the slider over, you will hear more and more audio start to pick up. this is the noise you're cutting out from the low end. again, be sure to switch this knob back to high pass when you're at a comfortable range to cut, probably between 20-40 Hz.
 

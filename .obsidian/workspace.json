@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "source/content/fl studio/mastering.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -179,6 +179,8 @@
   },
   "active": "eff64a9aaf584e60",
   "lastOpenFiles": [
+    "source/content/assets/FL64_fZbldvo2XR.gif",
+    "source/content/assets/FL64_hmT3S5SlOp.gif",
     "source/content/mastering/Some note.md",
     "source/content/fl studio/mastering.md",
     "source/content/fl studio/index.md",
@@ -191,7 +193,6 @@
     "source/content/assets/Pasted image 20241112205106.png",
     "source/content/assets/Pasted image 20241112205038.png",
     "source/content/assets/Pasted image 20241112204803.png",
-    "source/content/assets/Pasted image 20241112204039.png",
     "source/content/assets",
     "assets",
     "README.md"
