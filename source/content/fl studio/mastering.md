@@ -32,8 +32,12 @@ you can think of EQ as "sculpting frequencies" with a collection of volume knobs
 there are always exceptions or different ways of doing things, but here are two general EQ tips i've learned:
 
 * **it's better to cut than to boost:** for example you've got a part of your song where the bass is taking up the whole mix and it's hard to hear the nice higher pitched synths you so carefully crafted. instead of boosting the high end melodic parts, try cutting the bass a bit by EQ'ing the low end instead.
-  
+
 * **it's best to make very small adjustments:** if you just start cutting out like 20 dB of your mix, its going to sound very unnatural and likely bad.
+
+---
+
+**tools**:
 
 1) **Fruity parametric EQ 2**
    *first tool best tool*
@@ -48,7 +52,7 @@ there are always exceptions or different ways of doing things, but here are two 
 
 	![[Pasted image 20241112204039.png]]  
 
-* ==*how to: isolate your frequencies:*==
+* *how to: isolate your frequencies:*
 
 	* **high end** - right click the right knob in EQ 2 and choose type > high pass:
 	  
@@ -57,6 +61,7 @@ there are always exceptions or different ways of doing things, but here are two 
 	* this will let you hear what exactly you're cutting out, just be sure to switch it back to low pass when you're done. but this is really neat because its probably going to sound extremely tinny and not so good, this is all the junk noise you're EQ'ing out and getting rid of.
 	  
 	* **low end** - you can do this same trick on the left knob, and switch it over to low pass:
+	  
 	  ![[Pasted image 20241112205038.png]]![[Pasted image 20241112205106.png]]
 	
 	* as you drag the slider over, you will hear more and more audio start to pick up. this is the noise you're cutting out from the low end. again, be sure to switch this knob back to high pass when you're at a comfortable range to cut, probably between 20-40 Hz.
@@ -72,18 +77,18 @@ there are always exceptions or different ways of doing things, but here are two 
   
 	* ![[Pasted image 20241112212002.png]]
 	
-	* this little slider, with the red arrow pointing to it in our enhancement EQ, this is the dB slider. 
-	  
-	  *you can always check what something is doing in FL by looking in the top left corner, where i've strategically placed a second red arrow, called the "hint panel", to track the changes whatever knob you're sliding around is doing.*
+	* this little slider, with the red arrow pointing to it in our enhancement EQ, this is the dB slider. the second red arrow is pointing out the hint panel again, showing that it's currently at 2.0dB.
+
 
 * basically the idea here is, if you have to go above 2 dB to make something in your song sound good, its probably not going to sound good on different sound systems. so go back to your song's main flp and fix it in the mix and start this whole process over.
 
 3) **Patcher**
  
-* add patcher to the master track and then click the presets button, which is the button that says presets on it (took me a second to find, you're welcome)
+* add patcher to the master track and then click the presets button:
+
   ![[Pasted image 20241112212734.png]]
 
-* find the preset called "Mid Side EQ" -- not just the one that says Mid Side ok, make sure it has those lucky two letters "EQ" in it:
+* find the preset called "Mid Side EQ" -- not just the one that says "Mid Side", make sure it has those lucky two letters "EQ" in it:
   
   ![[Pasted image 20241112212851.png]]
 
