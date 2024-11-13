@@ -1,7 +1,5 @@
 ---
-title: My GitHub Pages Notebook!
+title: fl studio
 ---
 
-Hello world!
-
-Write some words here!
+helo
