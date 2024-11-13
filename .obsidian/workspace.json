@@ -27,8 +27,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mastering.md",
-                "mode": "preview",
+                "file": "source/content/mastering/mastering.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mastering.md",
+                "file": "source/content/mastering/mastering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mastering.md",
+                "file": "source/content/mastering/mastering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mastering.md"
+                "file": "source/content/mastering/mastering.md"
               },
               "icon": "lucide-list",
               "title": "Outline of mastering"
@@ -179,6 +179,9 @@
   },
   "active": "eff64a9aaf584e60",
   "lastOpenFiles": [
+    "source/content/mastering/Some note.md",
+    "source/content/mastering/mastering.md",
+    "source/content/mastering/index.md",
     "source/content/assets/Pasted image 20241112213532.png",
     "source/content/assets/Pasted image 20241112212851.png",
     "source/content/assets/Pasted image 20241112212734.png",
@@ -189,10 +192,8 @@
     "source/content/assets/Pasted image 20241112205038.png",
     "source/content/assets/Pasted image 20241112204803.png",
     "source/content/assets/Pasted image 20241112204039.png",
-    "source/content/assets/Pasted image 20241112204026.png",
     "source/content/assets",
     "assets",
-    "README.md",
-    "mastering.md"
+    "README.md"
   ]
 }
