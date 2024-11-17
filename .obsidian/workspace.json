@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "597b668e2ff69e92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
             "id": "eff64a9aaf584e60",
             "type": "leaf",
             "state": {
@@ -35,8 +21,7 @@
               "title": "mastering"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,10 +164,13 @@
   },
   "active": "eff64a9aaf584e60",
   "lastOpenFiles": [
+    "README.md",
+    "source/content/fl studio/mastering.md",
+    "source/quartz/static/icon.png",
+    "source/quartz/static/og-image.png",
     "source/content/assets/FL64_fZbldvo2XR.gif",
     "source/content/assets/FL64_hmT3S5SlOp.gif",
     "source/content/mastering/Some note.md",
-    "source/content/fl studio/mastering.md",
     "source/content/fl studio/index.md",
     "source/content/assets/Pasted image 20241112213532.png",
     "source/content/assets/Pasted image 20241112212851.png",
@@ -190,11 +178,7 @@
     "source/content/assets/Pasted image 20241112212002.png",
     "source/content/assets/Pasted image 20241112211637.png",
     "source/content/assets/Pasted image 20241112205923.png",
-    "source/content/assets/Pasted image 20241112205106.png",
-    "source/content/assets/Pasted image 20241112205038.png",
-    "source/content/assets/Pasted image 20241112204803.png",
     "source/content/assets",
-    "assets",
-    "README.md"
+    "assets"
   ]
 }

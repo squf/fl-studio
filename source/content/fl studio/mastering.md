@@ -2,10 +2,6 @@ stock tool kit mastering with fl studio
 
 # introduction & basic setup
 ---
-i used to mix & master my songs in the same flp file before exporting the final result to mp3. generally it sounded fine on most of the things i listen to music on, but recently i got some much better equipment to listen to music with, and i noticed my songs were really poor quality in different settings. 
-
-so i started researching the topic of mastering in fl studio to help with this, if you're currently also just doing all your mixing & mastering in one file and exporting to mp3 then this guide should be helpful. i would consider this a beginner's guide to mastering. 
-
 
 1) when you're done making a song and you want to start mastering it, first you should export it  as a **.wav** file. i like to use these settings:
 
@@ -13,7 +9,7 @@ so i started researching the topic of mastering in fl studio to help with this, 
 	
 	* `32Bit WAV bit depth` and `512-point resampling sinc` are the key settings here for the highest sound quality. **the reason why you want to use a wav file is because it is an uncompressed format**, whereas **mp3 is compressed**. just compare the file sizes between the same song in mp3 and wav format and you'll see the difference.
 
-now what you want to do is start a new empty project .flp file and import that wav file to it, then you will start doing your mastering from here. this has another benefit, you can clean-up any weird popping or clicking noises that often occur at the beginning or end of a track here before you notice them later. this always happens to me and its super annoying so i had to mention it here.
+next, drop the wav file into a new empty project to begin mastering.
 
 2) now we've got our wav imported into an empty project, notice that the master track is totally empty for now:
    
@@ -23,17 +19,17 @@ now what you want to do is start a new empty project .flp file and import that w
  
 	![[Pasted image 20241112193810.png]]
 
-now that the basic set-up steps are done, we can start going into some details on mastering tools and practices. like i said previously, if you were just mastering all in one file and exporting out an mp3, even just these simple steps will already make your songs sound way better, but there is a lot more to mastering than just this.
+now that the basic set-up steps are done, we can start going into some details on mastering tools and practices, even just these simple steps will already make your songs sound way better, next we will look into some more tools to take our master to the next level.
 
 # EQ (Equalization)
 ---
-you can think of EQ as "sculpting frequencies" with a collection of volume knobs, represented by the frequency bands they control. this probably sounds confusing, but basically you know what a volume knob is and what it does, so just imagine there are 7 of them, and each of these 7 volume knobs controls a specific frequency range in your song (think Hertz and Kilohertz -- i'll post a handy Hz guide at the bottom of this section).
+EQ is how you'll sculpt your song's sound frequencies using a series of virtual volume controls, each tied to a specific frequency range. imagine a set of seven volume knobs, but instead of controlling the overall volume of the track they each adjust the volume of a particular frequency range within the sound (measured in Hz and kHz). one knob might control sub bass tones, another would handle crispy high frequencies. EQ will allow you to emphasize or cut out certain parts of the mix, making a more polished and well balanced mix in the end. check out the handy Hz guide at the bottom of this section for a better sense of which frequencies correspond to different sounds. 
 
 there are always exceptions or different ways of doing things, but here are two general EQ tips i've learned:
 
 * **it's better to cut than to boost:** for example you've got a part of your song where the bass is taking up the whole mix and it's hard to hear the nice higher pitched synths you so carefully crafted. instead of boosting the high end melodic parts, try cutting the bass a bit by EQ'ing the low end instead.
 
-* **it's best to make very small adjustments:** if you just start cutting out like 20 dB of your mix, its going to sound very unnatural and likely bad.
+* **it's best to make very small adjustments:** if you just start cutting out like 20 dB of your mix, its going to sound very unnatural and likely bad. stick to 1-2 dB adjustments at a time and hear how it plays.
 
 ---
 
@@ -44,9 +40,9 @@ there are always exceptions or different ways of doing things, but here are two 
 
 	![[Pasted image 20241112203458.png]]
 
-* plop this right on the master track, and you can start with a built-in preset: **30Hz + 18kHz cut**, which will help clean-up a lot of junk in the song. 
+* plop this right on the master track, and you can start with a built-in preset: **30Hz + 18kHz cut**, which will help clean-up a lot of junk in the song by cutting out anything below 30Hz and anything above 18kHz.
   
-* why 30Hz for the low end? from what i've heard, most club systems cut off at about 35 Hz, most bass you will hear in even the most bass heavy music will cut off at around 41 Hz, so really by cutting the low end band at 30 Hz you're just preventing unnecessary muddy bass from ruining your song. you can adjust to your liking and your mix as needed, this is a "safe" range to play around in. i'll show you how to isolate specific frequencies below to test with.
+* why 30Hz for the low end? from what i've heard, most club systems cut off at about 35 Hz, most bass you will hear in even the most bass heavy music will cut off at around 41 Hz, its up to you to pick what ranges you want to keep in your mix or not, but 30 Hz feels like a safe range to me. in my own experience you can really feel and hear the difference on a nice sound system, which in my case is my car with its aftermarket sound system. i'll show you how to isolate specific frequencies below to test with.
   
 * you can check the Hz in the top left corner as you're dragging stuff around in the EQ, this is called the "hint panel" in FL, and usually it tells you what any knob you're adjusting is doing:
 
@@ -58,7 +54,7 @@ there are always exceptions or different ways of doing things, but here are two 
 	  
 	  ![[FL64_fZbldvo2XR.gif]]
 	
-	* this will let you hear what exactly you're cutting out, just be sure to switch it back to low pass when you're done. but this is really neat because its probably going to sound extremely tinny and not so good, this is all the junk noise you're EQ'ing out and getting rid of.
+	* this will let you hear what exactly you're cutting out, just be sure to switch it back to low pass when you're done.  this is really neat, you can hear all the junk noise you're EQ'ing out and getting rid of.
 	  
 	* **low end** - you can do this same trick on the left knob, and switch it over to low pass:
 	  
@@ -73,11 +69,11 @@ there are always exceptions or different ways of doing things, but here are two 
 	* ![[Pasted image 20241112211637.png]]
 
   
-* with this second EQ 2, you'll want to mess around with the yellow 4 knob mostly. maybe move it up a little bit, who knows. something actually important here though, just make sure you aren't boosting anything in here above 2 dB in sound. maybe 3 dB if you're feeling dangerous. 
+* with this second EQ 2, you'll want to move the knobs around until your song sounds better, typically the mid range knobs (3-5) need a little boost from here. keep your master levels in mind and don't boost the dB so much that you start clipping the audio, try to keep the master level at 0.
   
 	* ![[Pasted image 20241112212002.png]]
 	
-	* this little slider, with the red arrow pointing to it in our enhancement EQ, this is the dB slider. the second red arrow is pointing out the hint panel again, showing that it's currently at 2.0dB.
+	* the hint panel is displaying 2.0 dB, and we can see that i've raised the yellow 4 knob to that amount.
 
 
 * basically the idea here is, if you have to go above 2 dB to make something in your song sound good, its probably not going to sound good on different sound systems. so go back to your song's main flp and fix it in the mix and start this whole process over.
