@@ -19,9 +19,9 @@ next, drop the wav file into a new empty project to begin mastering.<br>
  
 	![[Pasted image 20241112193810.png]]<br>
 
-now that the basic set-up steps are done, we can start going into some details on mastering tools and practices, even just these simple steps will already make your songs sound way better, next we will look into some more tools to take our master to the next level.<br>
-
-# EQ (Equalization)<br>
+now that the basic set-up steps are done, we can start going into some details on mastering tools and practices, even just these simple steps will already make your songs sound way better, next we will look into some more tools to take our master to the next level.
+<br>
+# EQ (Equalization)
 ---
 EQ is how you'll sculpt your song's sound frequencies using a series of virtual volume controls, each tied to a specific frequency range. imagine a set of seven volume knobs, but instead of controlling the overall volume of the track they each adjust the volume of a particular frequency range within the sound (measured in Hz and kHz). one knob might control sub bass tones, another would handle crispy high frequencies. EQ will allow you to emphasize or cut out certain parts of the mix, making a more polished and well balanced mix in the end. check out the handy Hz guide at the bottom of this section for a better sense of which frequencies correspond to different sounds.
 <br>
@@ -112,7 +112,7 @@ there are always exceptions or different ways of doing things, but here are two 
 
 
 ---
-## A quick guide to the frequency spectrum<br>
+## A quick guide to the frequency spectrum
 
 **50-75Hz** - Boost to beef up kick drums and sub bass lines. Cut to reduce excessive low-end weight.<br>
 
