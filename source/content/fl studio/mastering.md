@@ -53,9 +53,10 @@ there are always exceptions or different ways of doing things, but here are two 
 
 * *how to isolate your frequencies:*
  
-	* **high end** - right click the right knob in EQ 2 and choose *type* > *high pass*:
+	* **high end** - right click the right knob in EQ 2 and choose type > high pass:
 	  
-	  ![[FL64_fZbldvo2XR.gif]]
+	  ![FL64_fZbldvo2XR](https://github.com/user-attachments/assets/540e54ed-4cfa-4862-aca9-df7dd38aecc3)
+
 	
 	* this will let you hear what exactly you're cutting out, **just be sure to switch it back to low pass when you're done**.  this is really neat, you can hear all the junk noise you're EQ'ing out and getting rid of.
 	  
